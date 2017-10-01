@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mas Shiro</title>
+    <link>http://okutasan.github.io/</link>
+    <description>Recent content on Mas Shiro</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Oct 2017 14:55:19 +0700</lastBuildDate>
+    
+	<atom:link href="http://okutasan.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Post Pertama Dengan Hugo</title>
+      <link>http://okutasan.github.io/post-pertama-dengan-hugo/</link>
+      <pubDate>Sun, 01 Oct 2017 14:55:19 +0700</pubDate>
+      
+      <guid>http://okutasan.github.io/post-pertama-dengan-hugo/</guid>
+      <description>Halo, ini adalah halaman saya yang pertama menggunakan Hugo. Apa itu Hugo ?
+Menurut web aslinya
+ &amp;ldquo;Hugo is one of the most popular open-source static site generators. With its amazing speed and flexibility, Hugo makes building websites fun again.&amp;rdquo;
+ bahasa gampangnya Hugo itu SSG yang cepat dan fleksibel yang mudah untuk digunakan.
+hmm pasti bingung apa itu SSG(static site generators) ?
+sama saya awalnya juga bingung, biasanya membuat web pakai cms semisal wordpress,joomla, ataupun drupal.</description>
+    </item>
+    
+  </channel>
+</rss>
